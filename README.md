@@ -1,2 +1,2 @@
 # C_Practice
-Pratice files for C++
+Solution to pratice files for C++ by Karan Goel (https://github.com/karan/Projects)
